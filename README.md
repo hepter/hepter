@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Full stack developer </h3>
+<h1>Full stack developer</h1> 
 
 <h6 >Researches with passion, excitement and curiosity to learn, produce, discover new technologies, strict and paying attention to code quality and all kinds of innovations or developments for the make process faster, scalable, easier, durable and stronger infrastructure. </h6>
 

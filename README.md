@@ -14,6 +14,9 @@
   </a> 
   <a href="https://mustafa-kuru.medium.com/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="https://mustafa-kuru.medium.com/"/>
+  </a> 
+  <a href="https://www.npmjs.com/~hepter" target="blank">
+    <img align="center" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="https://www.npmjs.com/~hepter"/>
   </a>
 </p>
 

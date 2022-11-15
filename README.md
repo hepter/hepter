@@ -1,5 +1,5 @@
 
-<h1>Full Stack Software Developer 💻</h1> 
+<h1>Frontend Developer 💻</h1> 
 
 <h6>Researches with passion, excitement and curiosity to learn, produce, discover new technologies, strict and paying attention to code quality and all kinds of innovations or developments for the make process faster, scalable, easier, durable and stronger infrastructure. </h6>
 
